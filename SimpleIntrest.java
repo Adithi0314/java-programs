@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class SimpleIntrest {
 
 	public static void main(String[] args) {
-		  // create an object of Scanner class
+		  
 	    Scanner sc = new Scanner(System.in);
 
-	    // take input from users
-	    System.out.print("Enter the principal: ");
+	   	    System.out.print("Enter the principal: ");
 	    double principal = sc.nextDouble();
 
 	    System.out.print("Enter the rate: ");
